@@ -1,0 +1,68 @@
+
+body{
+    background-image: url(/images/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.d-inline-block{
+    border-radius: 25px;
+}
+.tittle {
+    color: beige;
+}
+.nav-link {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.0em;
+}
+.navbar-brand{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 1.5em;
+}
+.navbar {
+    z-index: 1;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 ;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+}
+
+
+
+.album_0 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 400px;
+    padding-left: 150px;
+    padding-right: 10px;
+    
+}
+
+.titulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: 100%;
+height: 120px;
+text-align: center;
+background-color: rgb(107, 145, 224);
+padding-top: 15px;
+padding-right: 10px;
+border-radius: 15px;
+}
+.album{
+    width: 100%;
+    height: 400px;
+    padding: 15px;
+    border-radius: 15%;
+}
+
+.tablita {
+    padding-top: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+    height: auto;
+}
